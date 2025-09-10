@@ -7,7 +7,7 @@
 # Setup steps and How to Run
 Step 1: Open Apache and MySQL in XAMPP.
 
-Step 2: Creating the Database "students" and username from phpMyAdmin that is needed.
+Step 2: Creating the Database, and the table "students" and username from phpMyAdmin that is needed.
 
 Step 3: Open MS Studio in order to run codes and terminals.
 
